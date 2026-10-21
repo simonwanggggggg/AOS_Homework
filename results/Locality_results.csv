@@ -1,0 +1,41 @@
+Reference,Algorithm,Frames,Page Faults,Interrupts,Disk Writes
+Locality,FIFO,10,75148,111021,35873
+Locality,FIFO,20,2599,5178,2579
+Locality,FIFO,30,2588,5146,2558
+Locality,FIFO,40,2585,5130,2545
+Locality,FIFO,50,2585,5120,2535
+Locality,FIFO,60,2583,5106,2523
+Locality,FIFO,70,2549,5028,2479
+Locality,FIFO,80,2546,5012,2466
+Locality,FIFO,90,2531,4972,2441
+Locality,FIFO,100,2509,4918,2409
+Locality,MFU,10,75557,112689,37132
+Locality,MFU,20,2599,5178,2579
+Locality,MFU,30,2584,5138,2554
+Locality,MFU,40,2566,5092,2526
+Locality,MFU,50,2558,5066,2508
+Locality,MFU,60,2544,5028,2484
+Locality,MFU,70,2537,5004,2467
+Locality,MFU,80,2530,4980,2450
+Locality,MFU,90,2522,4954,2432
+Locality,MFU,100,2507,4914,2407
+Locality,Enhanced Second-Chance,10,75581,108333,32752
+Locality,Enhanced Second-Chance,20,2591,5162,2571
+Locality,Enhanced Second-Chance,30,3343,5950,2607
+Locality,Enhanced Second-Chance,40,2589,5134,2545
+Locality,Enhanced Second-Chance,50,2934,5489,2555
+Locality,Enhanced Second-Chance,60,2566,5069,2503
+Locality,Enhanced Second-Chance,70,2614,5094,2480
+Locality,Enhanced Second-Chance,80,2549,5003,2454
+Locality,Enhanced Second-Chance,90,2703,5154,2451
+Locality,Enhanced Second-Chance,100,2503,4902,2399
+Locality,Custom Algorithm V2,10,75592,104889,29297
+Locality,Custom Algorithm V2,20,4419,6988,2569
+Locality,Custom Algorithm V2,30,3594,6149,2555
+Locality,Custom Algorithm V2,40,2651,5196,2545
+Locality,Custom Algorithm V2,50,2611,5134,2523
+Locality,Custom Algorithm V2,60,2585,5087,2502
+Locality,Custom Algorithm V2,70,2557,5033,2476
+Locality,Custom Algorithm V2,80,2540,4994,2454
+Locality,Custom Algorithm V2,90,2526,4955,2429
+Locality,Custom Algorithm V2,100,2499,4894,2395

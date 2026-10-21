@@ -1,0 +1,41 @@
+Reference,Algorithm,Frames,Page Faults,Interrupts,Disk Writes
+Custom,FIFO,10,106198,146413,40215
+Custom,FIFO,20,75405,110224,34819
+Custom,FIFO,30,58585,88387,29802
+Custom,FIFO,40,49705,75455,25750
+Custom,FIFO,50,44539,67247,22708
+Custom,FIFO,60,41201,61549,20348
+Custom,FIFO,70,38854,57395,18541
+Custom,FIFO,80,37111,54242,17131
+Custom,FIFO,90,35759,51818,16059
+Custom,FIFO,100,34720,49923,15203
+Custom,MFU,10,109163,150314,41151
+Custom,MFU,20,90461,129627,39166
+Custom,MFU,30,85722,124300,38578
+Custom,MFU,40,84527,122920,38393
+Custom,MFU,50,84211,122548,38337
+Custom,MFU,60,83763,122085,38322
+Custom,MFU,70,83527,121804,38277
+Custom,MFU,80,83332,121573,38241
+Custom,MFU,90,82971,121175,38204
+Custom,MFU,100,82789,120971,38182
+Custom,Enhanced Second-Chance,10,104656,142816,38160
+Custom,Enhanced Second-Chance,20,67472,95617,28145
+Custom,Enhanced Second-Chance,30,44519,63122,18603
+Custom,Enhanced Second-Chance,40,35282,48593,13311
+Custom,Enhanced Second-Chance,50,32333,43671,11338
+Custom,Enhanced Second-Chance,60,31113,41667,10554
+Custom,Enhanced Second-Chance,70,30460,40607,10147
+Custom,Enhanced Second-Chance,80,29944,39832,9888
+Custom,Enhanced Second-Chance,90,29631,39354,9723
+Custom,Enhanced Second-Chance,100,29237,38772,9535
+Custom,Custom Algorithm V2,10,101356,136439,35083
+Custom,Custom Algorithm V2,20,57696,80190,22494
+Custom,Custom Algorithm V2,30,32548,43298,10750
+Custom,Custom Algorithm V2,40,29475,38291,8816
+Custom,Custom Algorithm V2,50,29229,37956,8727
+Custom,Custom Algorithm V2,60,29036,37699,8663
+Custom,Custom Algorithm V2,70,28830,37422,8592
+Custom,Custom Algorithm V2,80,28637,37162,8525
+Custom,Custom Algorithm V2,90,28449,36920,8471
+Custom,Custom Algorithm V2,100,28243,36642,8399
